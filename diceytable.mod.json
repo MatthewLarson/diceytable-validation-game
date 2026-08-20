@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "diceytable-validation-game",
   "name": "DiceyTable Validation Game",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
